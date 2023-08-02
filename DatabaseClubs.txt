@@ -1,0 +1,59 @@
+insert into clubs values(
+1
+, "Club de Algoritmos"
+, "Carlos Rivera"
+, "En este club se aplican conocimientos de programacion"
+,"Lunes - 15:00 - 16:30 "
+,"2.1"
+,32
+,15
+,"Ninguno"
+,"Salon: 0001");
+
+insert into clubs values(
+2
+, "Club Web"
+, "David Gonzalez"
+, "En este club se aplican conocimientos de HTML y css"
+,"Martes 15:00 - 16:30, Miercoles 15:00 - 16:30 "
+,"1.0"
+,40
+,22
+,"Ninguno"
+,"Salon: 0002");
+
+insert into clubs values(
+3
+, "Club de Pintura"
+, "Maria Hernandez"
+, "En este club se aprenden los principios basicos sobre pintura"
+,"Jueves 15:00 - 16:30, Viernes 16:00 - 18:30 "
+,"0.9"
+,29
+,12
+,"Ninguno"
+,"Laboratorio: 1013");
+
+insert into clubs values(
+4
+, "Club de Literatura"
+, "Fernanda Rogel"
+, "En este club se aprecia la literatura"
+,"Miercoles 10:00 - 11:00"
+,"0.5"
+,28
+,20
+,"Ninguno"
+,"Salon: 0001");
+
+insert into clubs values(
+5
+, "Club de Japones"
+, "Alfredo Martinez"
+, "En este club se enseña sobre el idioma y cultura japonesa"
+,"Jueves 15:00 - 16:30, Martes 10:00 -11:30 "
+,"0.8"
+,45
+,30
+,"Ninguno"
+,"Salon: 2001");
